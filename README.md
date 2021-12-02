@@ -1,2 +1,4 @@
 ### Using SQLite
-#### Sample code to show how to create a sqlite database in python notebooks
+#### Sample code showing how to create a sqlite database in jupyter notebooks
+## pandas 
+## SQLite3
